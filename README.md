@@ -33,3 +33,6 @@ GitHub: [My GitHub Profile](https://github.com/8-13ah)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript" />
 </p>
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=8-13ah&show_icons=true&theme=tokyonight)
