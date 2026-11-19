@@ -36,3 +36,12 @@ GitHub: [My GitHub Profile](https://github.com/8-13ah)
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=8-13ah&show_icons=true&theme=tokyonight)
+## 🚀 My Projects
+
+### 1. My Digital Hub
+A collection of my programming projects and learning journey.
+
+- Language: C++
+- Project: My first C++ project
+
+[View Project on GitHub](https://github.com/8-13ah/My-Digital-Hub)
