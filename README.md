@@ -28,3 +28,8 @@ GitHub: [My GitHub Profile](https://github.com/8-13ah)
 ---
 
 *Learning, building, and improving every day!*
+## 💻 Technologies I'm Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript" />
+</p>
